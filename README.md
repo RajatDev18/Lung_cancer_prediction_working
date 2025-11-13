@@ -2,11 +2,11 @@
 
 Predicting patient survival using medical diagnosis data
 
-### Overview
+## Overview
 
 This project builds a machine learning model to predict the survival status of lung cancer patients based on medical, demographic, and lifestyle information. The system helps identify important factors influencing mortality and can support early diagnosis, treatment planning, and risk stratification.
 
-# Objective
+## Objective
 
 Analyze patient diagnosis data to understand key predictors of lung cancer survival.
 
@@ -16,8 +16,8 @@ Identify the best model and important features using EDA and feature importance 
 
 Provide insights for healthcare research and early decision-making.
 
-# Project Workflow
-## 1. Data Preprocessing
+## Project Workflow
+### 1. Data Preprocessing
 
 Handling missing values
 
@@ -29,7 +29,7 @@ Outlier detection
 
 Feature engineering (e.g., treatment duration)
 
-## 2. Exploratory Data Analysis (EDA)
+### 2. Exploratory Data Analysis (EDA)
 
 Smoking vs. survival rate
 
@@ -39,7 +39,7 @@ Cancer stage influence
 
 Comorbidity correlations (hypertension, asthma, cirrhosis)
 
-## 3. Modeling
+### 3. Modeling
 
 Machine learning algorithms used:
 
@@ -61,11 +61,11 @@ ROC–AUC
 
 Confusion Matrix
 
-## 4. Feature Importance
+### 4. Feature Importance
 
 Identifying which features most strongly influence survival predictions.
 
-## Technologies Used
+### Technologies Used
 
 Python
 

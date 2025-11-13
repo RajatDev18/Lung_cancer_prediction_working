@@ -41,8 +41,7 @@ Comorbidity correlations (hypertension, asthma, cirrhosis)
 
 ### 3. Modeling
 
-Machine learning algorithms used:
-=================================
+### -> Machine learning algorithms used:
 
 Logistic Regression
 
@@ -52,8 +51,7 @@ Gradient Boosting / XGBoost
 
 Decision Trees
 
-Evaluation metrics include:
-===========================
+### -> Evaluation metrics include:
 
 Accuracy
 
